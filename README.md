@@ -7,12 +7,17 @@ githubプロフィールをご覧いただき、ありがとうございます�
 
 ***
 スキル📖  
- - html,css,typescript,javascirpt,ruby
- - react,next.js,express,rubyonRails
- - ansible,terraform
- - AWS
- - heroku,netify,vercel
- - circleCi
+- 使用言語
+  - html,css,typescript,javascirpt,ruby
+- フレームワーク
+  - react,next.js,express,rubyonRails
+- インフラ
+  - vagrant,docker
+  - linux,centos,ubuntu
+  - ansible,terraform
+  - AWS
+  - heroku,netlify,vercel
+  - circleCI
  ***
  成果物💻  
  
@@ -22,11 +27,12 @@ githubプロフィールをご覧いただき、ありがとうございます�
 |  golfesfarm(next.js)  |  [Link](https://golfersfarm.vercel.app/)   |  [repo](https://github.com/junwatanabe72/golfersfarm-ts-next)   |  next.js,react,express  |
 |  golfesfarm(rails)  |  [Link](https://www.golfersfarm.com/)   |  [repo](https://github.com/junwatanabe72/golfersfarm)   |  rubyonRails  | 
 
-next.js版を公開予定です。現在、公開に向けてテストを実施中！（20年12月現在）
+next.js版を公開予定です。現在、公開に向けてテストを実施中！（20年12月現在）  
+next.js版、react版のAPIは、herokuの無料サーバーを使用していますので、立ち上がりに時間がかかります。🙇‍♂️
 
 ***
 経歴👣  
-安田不動産株式会社(08年〜20年)
+安田不動産株式会社(08年〜20年)  
 下記の不動産開発を担当しました。✌️ 
 | building | address | completion | image |    
 |---|---|---|---|
