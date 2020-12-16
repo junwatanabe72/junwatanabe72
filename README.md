@@ -24,7 +24,7 @@ githubプロフィールをご覧いただき、ありがとうございます�
 | Website | Link | Repository | Tech Stack |  
 |---|---|---|---|
 |  golfesfarm(react)  |  [Link](https://golfersfarm.netlify.app/)   |  [repo](https://github.com/junwatanabe72/golfersfarm-ts)   |  react,redux,express  |
-|  ⭐️golfesfarm(next.js)  |  [Link](https://golfersfarm.vercel.app/)   |  [repo](https://github.com/junwatanabe72/golfersfarm-ts-next)   |  next.js,react,express  |
+|  golfesfarm(next.js)⭐️  |  [Link](https://golfersfarm.vercel.app/)   |  [repo](https://github.com/junwatanabe72/golfersfarm-ts-next)   |  next.js,react,express  |
 |  golfesfarm(rails)  |  [Link](https://www.golfersfarm.com/)   |  [repo](https://github.com/junwatanabe72/golfersfarm)   |  rubyonRails  | 
 
 next.js版をproduction版として公開予定です。現在、公開に向けたテストを実施中！（20年12月現在）  
