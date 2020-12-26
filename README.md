@@ -1,16 +1,18 @@
 ### Hi there 👋
 
 こんにちは！  
-githubプロフィールをご覧いただき、ありがとうございます。
+githubプロフィールをご覧いただき、ありがとうございます。  
 渡辺淳と申します。😀  
 主にjavascirpt（typescript）,rubyを使用し、アプリケーションを作成しています。
 
 ***
 スキル📖  
 - 使用言語
-  - html,css,typescript,javascirpt,ruby
+  - html,css
+  - javascirpt,typescript,ruby
 - フレームワーク
-  - react,next.js,express,rubyonRails
+  - react,next.js,express,
+  - Ruby on Rails
 - インフラ
   - vagrant,docker
   - linux,centos,ubuntu
@@ -24,11 +26,12 @@ githubプロフィールをご覧いただき、ありがとうございます�
 | Website | Link | Repository | Tech Stack |  
 |---|---|---|---|
 |  golfesfarm(next.js)⭐️  |  [Link](https://golfersfarm.com/)   |  [repo](https://github.com/junwatanabe72/golfersfarm-ts-next)   |  next.js,react,express  |
-|  golfesfarm(react)  |  [Link](https://golfersfarm.netlify.app/)   |  [repo](https://github.com/junwatanabe72/golfersfarm-ts)   |  react,redux,express  |
 |  golfesfarm(rails)  |  [Link](https://golfersfarm.herokuapp.com/)   |  [repo](https://github.com/junwatanabe72/golfersfarm)   |  rubyonRails  | 
+|  tic-tac-toe  |  [Link](https://junwatanabe72.github.io/react-tic-tac-toe/)   |  [repo](https://github.com/junwatanabe72/react-tic-tac-toe)   |  react  |
+|  tetrisLike  |  [Link](https://junwatanabe72.github.io/Tetris/)   |  [repo](https://github.com/junwatanabe72/Tetris)   |  jsOnly  |
+|  bingoGame  |  [Link](https://junwatanabe72.github.io/Bingo/)   |  [repo](https://github.com/junwatanabe72/Bingo)   |  jsOnly  |
 
-next.js版をproduction版として公開しました！（20年12月現在）  
-react版のAPIは、herokuの無料サーバーを使用しており、立ち上がりに時間がかかります。🙇‍♂️
+golfesfarm(next.js)はgolfesfarm(rails)をブラッシュアップしたものです。
 
 ***
 経歴👣  
