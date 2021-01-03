@@ -27,11 +27,13 @@ githubプロフィールをご覧いただき、ありがとうございます�
 |---|---|---|---|
 |  golfesfarm(next.js)⭐️  |  [Link](https://golfersfarm.com/)   |  [repo](https://github.com/junwatanabe72/golfersfarm-ts-next)   |  next.js,react,express  |
 |  golfesfarm(rails)  |  [Link](https://golfersfarm.herokuapp.com/)   |  [repo](https://github.com/junwatanabe72/golfersfarm)   |  rubyonRails  | 
+|  simple-poker(rails)  |  [Link](https://simple-poker-jw.herokuapp.com/)   |  [repo](https://github.com/junwatanabe72/poker_rails)   |  rubyonRails  | 
 |  tic-tac-toe  |  [Link](https://junwatanabe72.github.io/react-tic-tac-toe/)   |  [repo](https://github.com/junwatanabe72/react-tic-tac-toe)   |  react  |
 |  tetrisLike  |  [Link](https://junwatanabe72.github.io/Tetris/)   |  [repo](https://github.com/junwatanabe72/Tetris)   |  jsOnly  |
 |  bingoGame  |  [Link](https://junwatanabe72.github.io/Bingo/)   |  [repo](https://github.com/junwatanabe72/Bingo)   |  jsOnly  |
 
-golfesfarm(next.js)はgolfesfarm(rails)をブラッシュアップしたものです。
+golfesfarm(next.js)はgolfesfarm(rails)をブラッシュアップしたものです。  
+simple-pokerは、herokuのfree版にて稼働しています。立ち上げに一定程度お時間がかかる場合があります。🙇‍♂️
 
 ***
 経歴👣  
