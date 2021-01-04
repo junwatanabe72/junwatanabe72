@@ -33,7 +33,6 @@ githubプロフィールをご覧いただき、ありがとうございます�
 |  bingoGame  |  [Link](https://junwatanabe72.github.io/Bingo/)   |  [repo](https://github.com/junwatanabe72/Bingo)   |  jsOnly  |
 
 golfesfarm(next.js)はgolfesfarm(rails)をブラッシュアップしたものです。  
-simple-pokerは、アプリ立上がりに時間がかかる場合があります。🙇‍♂️
 
 ***
 経歴👣  
