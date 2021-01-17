@@ -25,12 +25,14 @@ githubプロフィールをご覧いただき、ありがとうございます�
  
 | Website | Link | Repository | Tech Stack |  
 |---|---|---|---|
-|  golfesfarm(next.js)  |  [Link](https://golfersfarm.com/)   |  [repo](https://github.com/junwatanabe72/golfersfarm-ts) ⭐️  |  next.js,react,express  |
+|  golfesfarm(react)  |  [Link](https://golfersfarm.netlify.app/)   |  [repo](https://github.com/junwatanabe72/golfersfarm-ts)   |  react,redux,express  |
+|  golfesfarm(next.js)  |  [Link](https://golfersfarm.com/)   |  [not public](https://golfersfarm.com/) |  next.js,express  |
 |  simple-poker(rails)  |  [Link](https://simple-poker-jw.herokuapp.com/)   |  [repo](https://github.com/junwatanabe72/poker_rails)   |  rubyonRails  | 
 |  tic-tac-toe  |  [Link](https://junwatanabe72.github.io/react-tic-tac-toe/)   |  [repo](https://github.com/junwatanabe72/react-tic-tac-toe)   |  react  |
 |  tetrisLike  |  [Link](https://junwatanabe72.github.io/Tetris/)   |  [repo](https://github.com/junwatanabe72/Tetris)   |  jsOnly  |
-|  bingoGame  |  [Link](https://junwatanabe72.github.io/Bingo/)   |  [repo](https://github.com/junwatanabe72/Bingo)   |  jsOnly  |
-
+|  bingoGame  |  [Link](https://junwatanabe72.github.io/Bingo/)   |  [repo](https://github.com/junwatanabe72/Bingo)   |  jsOnly  | 
+  
+golfesfarm(next.js)は、本番運用しているため、リポジトリはご覧いただけません。かわりにreact版をご覧ください🙇‍♂️
 
 
 ***
