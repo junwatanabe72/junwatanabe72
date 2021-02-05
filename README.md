@@ -9,10 +9,11 @@ githubプロフィールをご覧いただき、ありがとうございます�
 スキル📖  
 - 使用言語
   - html,css
-  - javascirpt,typescript,ruby
+  - javascirpt,typescript,ruby,dart
 - フレームワーク
   - react,next.js,express,
   - Ruby on Rails
+  - flutter
 - インフラ
   - vagrant,docker
   - linux,centos,ubuntu
