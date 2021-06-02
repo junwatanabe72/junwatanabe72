@@ -3,7 +3,7 @@
 こんにちは！  
 githubプロフィールをご覧いただき、ありがとうございます。  
 渡辺淳と申します。😀  
-主にjavascirpt（typescript）,rubyを使用し、アプリケーションを作成しています。
+主にjavascirpt（typescript）,dart,rubyを使用し、アプリケーションを作成しています。
 
 ***
 スキル📖  
@@ -11,7 +11,7 @@ githubプロフィールをご覧いただき、ありがとうございます�
   - html,css
   - javascirpt,typescript,ruby,dart
 - フレームワーク
-  - react,next.js,express,
+  - react,next.js,express,vue.js,nuxt.js
   - Ruby on Rails
   - flutter
 - インフラ
@@ -28,6 +28,7 @@ githubプロフィールをご覧いただき、ありがとうございます�
 |---|---|---|---|
 |  golfesfarm(react)  |  [Link](https://golfersfarm.netlify.app/)   |  [repo](https://github.com/junwatanabe72/golfersfarm-ts)   |  react,redux,express  |
 |  golfesfarm(next.js)  |  [Link](https://golfersfarm.com/)   |  [not public](https://golfersfarm.com/) |  next.js,express  |
+|  不動産所有期間チェッカ-(react)  |  [Link]( https://real-estate-holding-period-checker.work/)   |  [repo](https://github.com/junwatanabe72/long_term_transfer)   |  react  |
 |  simple-poker(rails)  |  [Link](https://simple-poker-jw.herokuapp.com/)   |  [repo](https://github.com/junwatanabe72/poker_rails)   |  rubyonRails  | 
 |  tic-tac-toe  |  [Link](https://junwatanabe72.github.io/react-tic-tac-toe/)   |  [repo](https://github.com/junwatanabe72/react-tic-tac-toe)   |  react  |
 |  tetrisLike  |  [Link](https://junwatanabe72.github.io/Tetris/)   |  [repo](https://github.com/junwatanabe72/Tetris)   |  jsOnly  |
