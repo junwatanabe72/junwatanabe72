@@ -26,21 +26,21 @@ githubプロフィールをご覧いただき、ありがとうございます�
  
 | Website | Link | Repository | Tech Stack |  
 |---|---|---|---|
-|  golfesfarm(next.js)  |  [Link](https://golfersfarm.com/)   |  [not public](https://golfersfarm.com/) |  next.js,express  |
-|  不動産所有期間チェッカ-(react)  |  [Link](https://real-estate-holding-period-checker.work/)   |  [repo](https://github.com/junwatanabe72/long_term_transfer)   |  react  |
-|  augusta_winner(flutter)  |  [Link](https://junwatanabe72.github.io/augusta_winner/#/)   |  [repo](https://github.com/junwatanabe72/masters)   |  flutter for web  |
-|  simple-poker(rails)  |  [Link](https://simple-poker-jw.herokuapp.com/)   |  [repo](https://github.com/junwatanabe72/poker_rails)   |  rubyonRails  | 
+|  golfesfarm  |  [Link](https://golfersfarm.com/)   |  [not public](https://golfersfarm.com/) |  next.js,express  |
+|  不動産所有期間チェッカ-  |  [Link](https://real-estate-holding-period-checker.work/)   |  [repo](https://github.com/junwatanabe72/long_term_transfer)   |  react  |
+|  augusta_winner  |  [Link](https://junwatanabe72.github.io/augusta_winner/#/)   |  [repo](https://github.com/junwatanabe72/masters)   |  flutter for web  |
+|  simple-poker |  [Link](https://simple-poker-jw.herokuapp.com/)   |  [repo](https://github.com/junwatanabe72/poker_rails)   |  ruby on rails  | 
 |  tic-tac-toe  |  [Link](https://junwatanabe72.github.io/react-tic-tac-toe/)   |  [repo](https://github.com/junwatanabe72/react-tic-tac-toe)   |  react  |
-|  tetrisLike  |  [Link](https://junwatanabe72.github.io/Tetris/)   |  [repo](https://github.com/junwatanabe72/Tetris)   |  jsOnly  |
-|  bingoGame  |  [Link](https://junwatanabe72.github.io/Bingo/)   |  [repo](https://github.com/junwatanabe72/Bingo)   |  jsOnly  | 
+|  tetrisLike  |  [Link](https://junwatanabe72.github.io/Tetris/)   |  [repo](https://github.com/junwatanabe72/Tetris)   |  javascript  |
+|  bingoGame  |  [Link](https://junwatanabe72.github.io/Bingo/)   |  [repo](https://github.com/junwatanabe72/Bingo)   |  javascript  | 
    
 仕事の成果物📱
 | Website | Link | Repository | Tech Stack |  
 |---|---|---|---|
-|  sinProject menu(nuxt.js)  |  [Link](https://menu.sinproapps.com/)   |  [not_public](https://menu.sinproapps.com/)   |  nuxt.js,firebase  |
-|  kokki clicker(flutter)  |  [Link](https://sinproject.net/teams/kokki-clicker/#/)   |  [not public](https://sinproject.net/teams/kokki-clicker/#/) |  flutter for web |
-|  additon(flutter)  |  [Link](https://sinproject.net/teams/addition/#/)   |  [not public](https://sinproject.net/teams/addition/#/) |  flutter for web |
-|  fruity-quiz(flutter)  |  [Link](https://sinproject.net/teams/fruity-quiz/#/)   |  [not public](https://sinproject.net/teams/fruity-quiz/#/) |  flutter for web|
+|  sinProject menu  |  [Link](https://menu.sinproapps.com/)   |  [not_public](https://menu.sinproapps.com/)   |  nuxt.js,firebase  |
+|  kokki clicker  |  [Link](https://sinproject.net/teams/kokki-clicker/#/)   |  [not public](https://sinproject.net/teams/kokki-clicker/#/) |  flutter for web |
+|  additon  |  [Link](https://sinproject.net/teams/addition/#/)   |  [not public](https://sinproject.net/teams/addition/#/) |  flutter for web |
+|  fruity-quiz  |  [Link](https://sinproject.net/teams/fruity-quiz/#/)   |  [not public](https://sinproject.net/teams/fruity-quiz/#/) |  flutter for web|
 
 
 
