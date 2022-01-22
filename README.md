@@ -28,7 +28,7 @@ githubプロフィールをご覧いただき、ありがとうございます�
 | Website | Link | Repository | Tech Stack |  
 |---|---|---|---|
 |  golfesfarm  |  [Link](https://golfersfarm.com/)   |  [not public](https://golfersfarm.com/) |  next.js,express  |
-|  musicApp |  [Link](https://kyokuate.netlify.app/)   |  [repo](https://github.com/junwatanabe72/long_term_transfer)   |  react,redux  |
+|  musicApp |  [Link](https://kyokuate.netlify.app/)   |  [repo](https://github.com/junwatanabe72/musicApp)   |  react,redux  |
 |  不動産所有期間チェッカ-  |  [Link](https://real-estate-holding-period-checker.work/)   |  [repo](https://github.com/junwatanabe72/long_term_transfer)   |  react  |
 |  augusta_winner  |  [Link](https://junwatanabe72.github.io/augusta_winner/#/)   |  [repo](https://github.com/junwatanabe72/masters)   |  flutter for web  |
 |  simple-poker |  [Link](https://simple-poker-jw.herokuapp.com/)   |  [repo](https://github.com/junwatanabe72/poker_rails)   |  ruby on rails  | 
