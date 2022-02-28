@@ -3,7 +3,7 @@
 こんにちは！  
 githubプロフィールをご覧いただき、ありがとうございます。  
 渡辺淳と申します。😀  
-不動産デベロッパーで施工管理を行っている傍ら社内システムも作成しています。  
+スタートアップ不動産デベロッパーで働いている傍ら社内システムも作成しています。  
 プライベートでは、主にjavascirpt（typescript）,dart,rubyを使用し、アプリケーションを作成しています。
 
 ***
@@ -30,7 +30,7 @@ githubプロフィールをご覧いただき、ありがとうございます�
 |  golfesfarm  |  [Link](https://golfersfarm.com/)   |  [not public](https://golfersfarm.com/) |  next.js,express  |
 |  musicApp |  [Link](https://kyokuate.netlify.app/)   |  [repo](https://github.com/junwatanabe72/musicApp)   |  react,redux  |
 |  不動産所有期間チェッカ-  |  [Link](https://real-estate-holding-period-checker.work/)   |  [repo](https://github.com/junwatanabe72/long_term_transfer)   |  react  |
-|  augusta_winner  |  [Link](https://junwatanabe72.github.io/augusta_winner/#/)   |  [repo](https://github.com/junwatanabe72/masters)   |  flutter for web  |
+|  augusta_winner_ts  |  [Link](https://augusta-winner.vercel.app/)   |  [not public](https://augusta-winner.vercel.app/)   |  react,recoil  |
 |  simple-poker |  [Link](https://simple-poker-jw.herokuapp.com/)   |  [repo](https://github.com/junwatanabe72/poker_rails)   |  ruby on rails  | 
 |  tic-tac-toe  |  [Link](https://junwatanabe72.github.io/react-tic-tac-toe/)   |  [repo](https://github.com/junwatanabe72/react-tic-tac-toe)   |  react  |
 |  tetrisLike  |  [Link](https://junwatanabe72.github.io/Tetris/)   |  [repo](https://github.com/junwatanabe72/Tetris)   |  javascript  |
