@@ -39,6 +39,7 @@ githubプロフィールをご覧いただき、ありがとうございます�
 仕事の成果物📱
 | Website | Link | Repository | Tech Stack |  
 |---|---|---|---|
+|  serach Property  |  private   |  private   |  next.js,firebase  |
 |  sinProject menu  |  [Link](https://menu.sinproapps.com/)   |  [not_public](https://menu.sinproapps.com/)   |  nuxt.js,firebase  |
 |  kokki clicker  |  [Link](https://sinproject.net/teams/kokki-clicker/#/)   |  [not public](https://sinproject.net/teams/kokki-clicker/#/) |  flutter for web |
 |  additon  |  [Link](https://sinproject.net/teams/addition/#/)   |  [not public](https://sinproject.net/teams/addition/#/) |  flutter for web |
