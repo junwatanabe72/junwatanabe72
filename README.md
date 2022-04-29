@@ -7,15 +7,15 @@ githubプロフィールをご覧いただき、ありがとうございます�
 プライベートでは、主にjavascirpt（typescript）,dart,rubyを使用し、アプリケーションを作成しています。
 
 ***
-スキル📖  
-- 使用言語
+skill📖  
+- lang
   - html,css
-  - javascirpt,typescript,ruby,dart
-- フレームワーク
+  - javascirpt,typescript,ruby,dart,python
+- frameWork
   - react,next.js,express,vue.js,nuxt.js
   - Ruby on Rails
   - flutter
-- インフラ
+- infrastructure
   - vagrant,docker
   - linux,centos,ubuntu
   - ansible,terraform
@@ -23,7 +23,7 @@ githubプロフィールをご覧いただき、ありがとうございます�
   - heroku,netlify,vercel
   - circleCI
  ***
- 個人の成果物💻  
+ private works💻  
  
 | Website | Link | Repository | Tech Stack |  
 |---|---|---|---|
@@ -36,7 +36,7 @@ githubプロフィールをご覧いただき、ありがとうございます�
 |  tetrisLike  |  [Link](https://junwatanabe72.github.io/Tetris/)   |  [repo](https://github.com/junwatanabe72/Tetris)   |  javascript  |
 |  bingoGame  |  [Link](https://junwatanabe72.github.io/Bingo/)   |  [repo](https://github.com/junwatanabe72/Bingo)   |  javascript  | 
    
-仕事の成果物📱
+public works📱
 | Website | Link | Repository | Tech Stack |  
 |---|---|---|---|
 |  search Properties  |  private   |  private   |  next.js,firebase  |
@@ -48,7 +48,7 @@ githubプロフィールをご覧いただき、ありがとうございます�
 
 
 ***
-経歴👣  
+history👣  
 安田不動産株式会社(08年〜20年)  
 下記の不動産開発を担当しました。✌️ 
 | building | address | completion | image |    
