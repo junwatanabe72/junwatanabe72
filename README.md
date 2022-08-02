@@ -12,9 +12,9 @@ skill📖
   - html,css
   - javascirpt,typescript,ruby,dart,python
 - frameWork
-  - react,next.js,express,vue.js,nuxt.js
-  - Ruby on Rails
-  - flutter
+  - React,Next.js,Express.js,Vue.js,Nuxt.js
+  - RubyonRails
+  - Flutter
 - infrastructure
   - vagrant,docker
   - linux,centos,ubuntu
