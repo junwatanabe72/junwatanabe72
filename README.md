@@ -28,7 +28,8 @@ skill📖
 | Website | Link | Repository | Tech Stack |  
 |---|---|---|---|
 |  tochisaga  |  [Link](https://tochisaga.com/)   |  [not public](https://tochisaga.com/) |  next.js,recoil  |
-|  golfesfarm  |  [Link](https://golfersfarm.com/)   |  [not public](https://golfersfarm.com/) |  next.js,express  |
+|  golfersfarm  |  [Link](https://golfersfarm.com/)   |  [not public](https://golfersfarm.com/) |  next.js,express  |
+|  SearchFoodTrunks in SF  |  [Link](https://uberchallenge.netlify.app/)   |  [repo](https://github.com/junwatanabe72/uberChallenge) |  rect,recoil,@googlemaps/react-wrapper  |
 |  musicApp |  [Link](https://kyokuate.netlify.app/)   |  [repo](https://github.com/junwatanabe72/musicApp)   |  react,redux  |
 |  不動産所有期間チェッカ-  |  [Link](https://real-estate-holding-period-checker.work/)   |  [repo](https://github.com/junwatanabe72/long_term_transfer)   |  react  |
 |  augusta_winner_ts  |  [Link](https://augusta-winner.vercel.app/)   |  [not public](https://augusta-winner.vercel.app/)   |  react,recoil  |
