@@ -29,14 +29,9 @@ skill📖
 |---|---|---|---|
 |  tochisaga  |  [Link](https://tochisaga.com/)   |  [not public](https://tochisaga.com/) |  next.js,recoil  |
 |  golfersfarm  |  [Link](https://golfersfarm.com/)   |  [not public](https://golfersfarm.com/) |  next.js,express  |
-|  SearchFoodTrunks in SF  |  [Link](https://uberchallenge.netlify.app/)   |  [repo](https://github.com/junwatanabe72/uberChallenge) |  rect,recoil,@googlemaps/react-wrapper  |
 |  musicApp |  [Link](https://kyokuate.netlify.app/)   |  [repo](https://github.com/junwatanabe72/musicApp)   |  react,redux  |
-|  不動産所有期間チェッカ-  |  [Link](https://real-estate-holding-period-checker.work/)   |  [repo](https://github.com/junwatanabe72/long_term_transfer)   |  react  |
 |  augusta_winner_ts  |  [Link](https://augusta-winner.vercel.app/)   |  [not public](https://augusta-winner.vercel.app/)   |  react,recoil  |
-|  simple-poker |  [Link](https://simple-poker-jw.herokuapp.com/)   |  [repo](https://github.com/junwatanabe72/poker_rails)   |  ruby on rails  | 
-|  tic-tac-toe  |  [Link](https://junwatanabe72.github.io/react-tic-tac-toe/)   |  [repo](https://github.com/junwatanabe72/react-tic-tac-toe)   |  react  |
-|  tetrisLike  |  [Link](https://junwatanabe72.github.io/Tetris/)   |  [repo](https://github.com/junwatanabe72/Tetris)   |  javascript  |
-|  bingoGame  |  [Link](https://junwatanabe72.github.io/Bingo/)   |  [repo](https://github.com/junwatanabe72/Bingo)   |  javascript  | 
+|  simple-poker |  [Link](https://simple-poker-jw.herokuapp.com/)   |  [repo](https://github.com/junwatanabe72/poker_rails)   |  ruby on rails  |  
    
 public works📱
 | Website | Link | Repository | Tech Stack |  
