@@ -30,8 +30,7 @@ skill📖
 |  tochisaga  |  [Link](https://tochisaga.com/)   |  [not public](https://tochisaga.com/) |  next.js,recoil  |
 |  golfersfarm  |  [Link](https://golfersfarm.com/)   |  [not public](https://golfersfarm.com/) |  next.js,express  |
 |  musicApp |  [Link](https://kyokuate.netlify.app/)   |  [repo](https://github.com/junwatanabe72/musicApp)   |  react,redux  |
-|  augusta_winner_ts  |  [Link](https://augusta-winner.vercel.app/)   |  [not public](https://augusta-winner.vercel.app/)   |  react,recoil  |
-|  simple-poker |  [Link](https://simple-poker-jw.herokuapp.com/)   |  [repo](https://github.com/junwatanabe72/poker_rails)   |  ruby on rails  |  
+|  augusta_winner_ts  |  [Link](https://augusta-winner.vercel.app/)   |  [not public](https://augusta-winner.vercel.app/)   |  react,recoil  | 
    
 public works📱
 | Website | Link | Repository | Tech Stack |  
