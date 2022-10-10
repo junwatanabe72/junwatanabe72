@@ -5,7 +5,7 @@
 渡辺淳と申します。😀  
 以前は、不動産デベロッパーで働いていました。  
 現在は株式会社Arentで働いてます。  
-プライベートでは、主にjavascirpt,typescript,dart,rubyを使用し、アプリケーションを作成しています。
+プライベートでは、主にjavascirpt,typescriptを使用し、アプリケーションを作成しています。
 
 ***
 skill📖  
