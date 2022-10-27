@@ -12,11 +12,9 @@ junwatanabe72です。😀
 skill📖  
 - lang
   - html,css
-  - javascirpt,typescript,ruby,dart,python
+  - javascirpt,typescript,(ruby,dart,python)
 - frameWork
-  - React,Next.js,Express.js,Vue.js,Nuxt.js
-  - RubyonRails
-  - Flutter
+  - React,Next.js,Express.js,(Vue.js,Nuxt.js,RubyonRails,Flutter)
 - infrastructure
   - vagrant,docker
   - linux,centos,ubuntu
