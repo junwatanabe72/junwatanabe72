@@ -5,8 +5,7 @@
 junwatanabe72です。😀  
 以前は、不動産デベロッパーで働いていましたが、    
 現在は株式会社Arentでプロジェクトマネージャーとして働いています。  
-主にjavascirpt,typescriptを使用し、不動産会社向けの用地取得アプリを開発しました。  
-プライベートでも趣味のゴルフにちなんだアプリ等を開発しています。
+javascirpt,typescriptメイン。
 
 ***
 skill📖  
@@ -23,7 +22,7 @@ skill📖
   - heroku,netlify,vercel
   - circleCI
  ***
- private works💻  
+works💻  
  
 | Website | Link | Repository | Tech Stack |  
 |---|---|---|---|
@@ -31,18 +30,6 @@ skill📖
 |  golfersfarm  |  [Link](https://golfersfarm.com/)   |  [not public](https://golfersfarm.com/) |  next.js,express  |
 |  musicApp |  [Link](https://kyokuate.netlify.app/)   |  [repo](https://github.com/junwatanabe72/musicApp)   |  react,redux  |
 |  augusta_winner_ts  |  [Link](https://augusta-winner.vercel.app/)   |  [not public](https://augusta-winner.vercel.app/)   |  react,recoil  | 
-   
-public works📱
-| Website | Link | Repository | Tech Stack |  
-|---|---|---|---|
-|  search Properties  |  private   |  private   |  next.js,firebase  |
-|  sinProject menu  |  [Link](https://menu.sinproapps.com/)   |  [not_public](https://menu.sinproapps.com/)   |  nuxt.js,firebase  |
-|  kokki clicker  |  [Link](https://sinproject.net/teams/kokki-clicker/#/)   |  [not public](https://sinproject.net/teams/kokki-clicker/#/) |  flutter for web |
-|  additon  |  [Link](https://sinproject.net/teams/addition/#/)   |  [not public](https://sinproject.net/teams/addition/#/) |  flutter for web |
-|  fruity-quiz  |  [Link](https://sinproject.net/teams/fruity-quiz/#/)   |  [not public](https://sinproject.net/teams/fruity-quiz/#/) |  flutter for web|
-
-
-
 ***
 history👣  
 安田不動産株式会社(08年〜20年)  
